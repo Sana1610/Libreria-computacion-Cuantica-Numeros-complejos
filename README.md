@@ -4,7 +4,7 @@ Este proyecto es una libreria cuya funcion principal es hacer operaciones básic
 
 ## Comenzando 
 
-Para la instalacion del codigo debes tener las carpetas _pycache_ y .idea en un mismo directorio que el codigo main.py y test_main
+Para la instalacion del codigo debes tener las carpetas _pycache_, .idea junto con el codigo main.py y test_main en una misma carpeta llamada Cnyt 
 Para correr las pruebas deberas ejecutar el codigo test_main y correr el Unittest for test_main.TestMain
 
 ## Ejecucion de pruebas
